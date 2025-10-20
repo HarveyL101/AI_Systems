@@ -3,7 +3,12 @@
 
 This programme is a work in progress, with features being subject to change at any given time.
 
-## Warning
+## Genetic Algorithm
+
+My first implementation of a genetic algorithm, using chromosomes and a roulette wheel for random parent selection.
+
+
+### Warning
 
 This program is coded to produce two children per parent in a generation, please be careful when setting the max generation parameters to values over 10. 
 
